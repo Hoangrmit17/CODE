@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 56.97 21.12">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2 {
+        fill: #e836c6;
+      }
+
+      .cls-3 {
+        fill: #f388ff;
+      }
+
+      .cls-4 {
+        filter: url(#luminosity-noclip);
+      }
+    </style>
+    <filter id="luminosity-noclip" x="-79.66" y="-60.89" width="209" height="139" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-color="#fff" result="bg"/>
+      <feBlend in="SourceGraphic" in2="bg"/>
+    </filter>
+    <mask id="mask" x="-79.66" y="-60.89" width="209" height="139" maskUnits="userSpaceOnUse">
+      <g class="cls-4">
+        <image width="209" height="139" transform="translate(-79.66 -60.89)" xlink:href="data:image/png;base64,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"/>
+      </g>
+    </mask>
+  </defs>
+  <g id="fish">
+    <g id="f1">
+      <path class="cls-2" d="M56,11.28c-4.96,3.96-18.41,12.09-37.71,3.57-2.43-1.07-5.22-1.16-7.68-.14C4.78,17.12,0,21.12,0,21.12V.19s5.4,3.1,9.63,4.58c2,.7,4.2.6,6.14-.24,22.5-9.74,35.63-1.37,40.34,2.81,1.2,1.06,1.13,2.94-.11,3.94Z"/>
+      <g class="cls-1">
+        <path class="cls-3" d="M56,11.28c-4.96,3.96-18.41,12.09-37.71,3.57-2.43-1.07-5.22-1.16-7.68-.14C4.78,17.12,0,21.12,0,21.12V.19s5.4,3.1,9.63,4.58c2,.7,4.2.6,6.14-.24,22.5-9.74,35.63-1.37,40.34,2.81,1.2,1.06,1.13,2.94-.11,3.94Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
